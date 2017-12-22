@@ -1,6 +1,6 @@
 import 'blank';
 
-import Hello from './components/hello';
+import Parent from './components/Parent';
 import WebpackerReact from 'webpacker-react';
 
-WebpackerReact.setup({Hello})
+WebpackerReact.setup({Parent})
